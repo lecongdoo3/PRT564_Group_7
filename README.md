@@ -1,4 +1,4 @@
-# Assessment 4 for the Unit PRT564 - Group 7
+# Assessment 4 for the Unit PRT564 - Group 7 - Charles Darwin University
 
 # Dual Analysis of Research Paper Retractions: Historical Patterns and Future Predictions
 
@@ -104,47 +104,60 @@ I spearheaded this project as the team leader, with the invaluable collaboration
 Any concerns or contributions you might have, please feel free to reach me through [email](lecongdoo3@gmail.com).
 
 ## References
+Bholowalia, P., & Kumar, A. (2014). EBK-means: A clustering technique based on elbow method and k-means in WSN. International Journal of Computer Applications, 105(9). 
+
+Database, R. W. (2024). http://retractiondatabase.org/RetractionSearch.aspx? 
+
+Developers, G. (2023). Imbalanced Data, Machine Learning. https://developers.google.com/machine-learning/data-prep/construct/sampling-splitting/imbalanced-data
+
+Dhiraj K. (2019, 14/6/2019). Top 4 advantages and disadvantages of Support Vector Machine or SVM.  https://dhirajkumarblog.medium.com/top-4-advantages-and-disadvantages-of-support-vector-machine-or-svm-a3c06a2b107
+
+Elsevier. Measuring a journal’s impact. https://www.elsevier.com/researcher/author/tools-and-resources/measuring-a-journals-impact
+
 Fang, F. C., & Casadevall, A. (2011). Retracted science and the retraction index. Infect Immun, 79(10), 3855-3859. https://doi.org/10.1128/iai.05661-11 
 
 Fang, F. C., Steen, R. G., & Casadevall, A. (2012). Misconduct accounts for the majority of retracted scientific publications. Proceedings of the National Academy of Sciences, 109(42), 17028-17033. 
 
-Schneider, J., Ye, D., Hill, A. M., & Whitehorn, A. S. (2020). Continued post-retraction citation of a fraudulent clinical trial report, 11 years after it was retracted for falsifying data. Scientometrics, 125(3), 2877-2913. https://doi.org/10.1007/s11192-020-03631-1 
+Feng, L., Yuan, J., & Yang, L. (2020). An observation framework for retracted publications in multiple dimensions. Scientometrics, 125(2), 1445-1457. 
+
+Gnana, D. A. A., Balamurugan, S. A. A., & Leavline, E. J. (2016). Literature review on feature selection methods for high-dimensional data. International Journal of Computer Applications, 136(1), 9-17. 
+
+Hemashreekilari. (2023, 5/9/2023). Understanding Gradient Boosting.  https://medium.com/@hemashreekilari9/understanding-gradient-boosting-632939b98764
+
+Kapkar, B. (2020). Which Machine Learning requires Feature Scaling(Standardization and Normalization)? And Which not? Kaggle.com. https://www.kaggle.com/discussions/getting-started/159643
+
+Kebede, S. D., Sebastian, Y., Yeneneh, A., Chanie, A. F., Melaku, M. S., & Walle, A. D. (2023). Prediction of contraceptive discontinuation among reproductive-age women in Ethiopia using Ethiopian Demographic and Health Survey 2016 Dataset: A Machine Learning Approach. BMC Medical Informatics and Decision Making, 23(1), 9. 
+
+Lab, S. (2024). Scimago Journal Rankings. https://www.scimagojr.com/journalrank.php?year=2018
+
+MLNerds. (2019, 14/2/2019). How does KNN algorithm work? What are the advantages and disadvantages of KNN? https://machinelearninginterview.com/topics/machine-learning/how-does-knn-algorithm-work-what-are-the-advantages-and-disadvantages-of-knn/
+
+NIH Office of Portfolio Analysis. New Analysis iCite. https://icite.od.nih.gov/ 
+
+Oludare, E. (2020, 27/11/2020). Random Forest: How it Work and Benefit. https://medium.com/analytics-vidhya/random-forest-algorithm-how-it-works-and-benefit-5ae40aab6ae0
+
+Řezanková, H., & Everitt, B. (2009). Cluster analysis and categorical data. Statistika, 89(3), 216-232. 
+
+Schneider, J., Ye, D., Hill, A. M., & Whitehorn, A. S. (2020). Continued post-retraction citation of a fraudulent clinical trial report, 11 years after it was retracted for falsifying data. 
+
+Scientometrics, 125(3), 2877-2913. https://doi.org/10.1007/s11192-020-03631-1 
+
+Scikit Learn. (2024). Cross-validation: evaluating estimator performance. https://scikit-learn.org/stable/modules/cross_validation.html
+
+Seldon. (2021). Machine Learning Optimization - Why is it so Important? https://www.seldon.io/machine-learning-optimisation 
 
 Shahraki-Mohammadi, A., Keikha, L., & Zahedi, R. (2024). Investigate the relationship between the retraction reasons and the quality of methodology in non-Cochrane retracted systematic reviews: a systematic review. Systematic Reviews, 13(1), 24. 
 
-Steen, R. G. (2011). Retractions in the medical literature: how many patients are put at risk by flawed research? Journal of Medical Ethics, 37(11), 688-692. https://doi.org/10.1136/jme.2011.043133 
+Sharma, P., Sharma, B., Reza, A., Inampudi, K. K., & Dhamija, R. K. (2023). A systematic review of retractions in biomedical research publications: reasons for retractions and their citations in Indian affiliations. Humanities and Social Sciences Communications, 10(1), 1-12. 
+
+Szakal, F. D. (2021, 25/4/2021). Retracting publications doesn’t stop them from influencing science. https://www.salon.com/2021/04/25/retracting-publications-doesnt-stop-them-from-influencing-science_partner/
 
 Van Noorden, R. (2023). More Than 10,000 Research Papers Were Retracted in 2023-a New Record. Nature, 624(7992), 479-481. https://doi.org/10.1038/d41586-023-03974-8 
 
+Vujović, Ž. (2021). Classification model evaluation metrics. International Journal of Advanced Computer Science and Applications, 12(6), 599–606. 
+
 Wray, K. B., & Andersen, L. E. (2018). Retractions in. Scientometrics, 117(3), 2009-2019. https://doi.org/10.1007/s11192-018-2922-4 
 
-Azita Shahraki-Mohammadi, Keikha, L & Zahedi, R 2024, ‘Investigate the relationship between the retraction reasons and the quality of methodology in non-Cochrane retracted systematic reviews: a systematic review’, Systematic reviews, vol. 13, BioMed Central, no. 1. 
+Xu, S., & Hu, G. (2022). A cross-disciplinary and severity-based study of author-related reasons for retraction. Accountability in Research, 29(8), 512-536. 
 
-Data Science Wizards 2023, Understanding the Gradient Boosting Algorithm, Medium. 
-
-Dhiraj, K 2020, Top 4 advantages and disadvantages of Support Vector Machine or SVM, Medium. 
-
-iCite | New Analysis | NIH Office of Portfolio Analysis n.d., icite.od.nih.gov, <https://icite.od.nih.gov/analysis>.  
-
-Imbalanced Data | Machine Learning 2023, Google Developers. 
-
-KAPKAR, B 2020, Which Machine Learning requires Feature Scaling(Standardization and Normalization)? And Which not? | Kaggle, www.kaggle.com, <https://www.kaggle.com/discussions/getting-started/159643>. 
-
-Measuring a journal’s impact n.d., www.elsevier.com, <https://www.elsevier.com/researcher/author/tools-and-resources/measuring-a-journals-impact>. 
-
-MLNerds 2019, How does KNN algorithm work ? What are the advantages and disadvantages of KNN ?, Ace the Data Science Interview! 
-
-Oludare, E 2020, Random Forest Algorithm: How it works and Benefit, Analytics Vidhya. 
-Feng, L, Yuan, J & Yang, L 2020, ‘An observation framework for retracted publications in multiple dimensions’, Scientometrics, vol. 125, Springer Nature (Netherlands), no. 2, pp. 1445–1457. 
-
-SciKit-Learn 2009, 3.1. Cross-validation: evaluating estimator performance — scikit-learn 0.21.3 documentation, Scikit-learn.org. 
-
-Scimago Lab 2018, Scimago Journal Rankings, Scimagojr.com. 
-
-Seldon 2021, Machine Learning Optimization - Why is it so Important?, Seldon, <https://www.seldon.io/machine-learning-optimisation#:~:text=Optimisation%20is%20measured%20through%20a>. 
-
-Sharma, P, Sharma, B, Reza, A, Inampudi, KK & Dhamija, RK 2023, ‘A systematic review of retractions in biomedical research publications: reasons for retractions and their citations in Indian affiliations’, Humanities and Social Sciences Communications, vol. 10, no. 1, pp. 1–12, <https://www.nature.com/articles/s41599-023-02095-x>. 
-
-The Retraction Watch Database n.d. < http://retractiondatabase.org/RetractionSearch.aspx?AspxAutoDetectCookieSupport=1>  
-
-Vujovic, ŽÐ 2021, ‘Classification Model Evaluation Metrics’, International Journal of Advanced Computer Science and Applications, vol. 12, no. 6. 
+Zhao, T., Dai, T., Lun, Z., & Gao, Y. (2021). An analysis of recently retracted articles by authors affiliated with hospitals in mainland China. Journal of Scholarly Publishing, 52(2), 107–122.
