@@ -75,7 +75,7 @@ Centroid 12675: Interdisciplinary research with issues of plagiarism, involving 
 There are more patterns and trends unpacked to see in the analysis file. Feel free to explore!
 
 ## Installation and usage guide
-Run the 'requirements.txt' file to install necessary packages: pip install -r requirements.txt
+Run the 'requirements.txt' file to install necessary packages: **pip install -r requirements.txt**
 
 matplotlib==3.5.1
 
