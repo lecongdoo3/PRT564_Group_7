@@ -1,6 +1,7 @@
 # Assessment 4 - Unit PRT564 - Group 7 - Charles Darwin University
 
-# Analysis of Paper Retractions: Historical Patterns and Future Predictions
+# Duel Analysis of Research Paper Retractions:
+**Historical Patterns and Future Predictions**
 
 ## Link to our presentation video
 https://www.youtube.com/watch?v=vyTir18D_rw
